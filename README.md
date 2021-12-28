@@ -2,3 +2,6 @@ https://github.com/spritewidget/spritewidget を色々使ってみるリポジ�
 
 ## widgets/particle.dart
 particleアニメーションのデモ
+
+## widgets/animation.dart
+tweenアニメーションのデモ

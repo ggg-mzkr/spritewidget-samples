@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:sprite_test/widgets/animation.dart';
 import 'package:sprite_test/widgets/particle.dart';
 
 void main() {
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Particle(),
+      home: AnimationWidget(),
     );
   }
 }
